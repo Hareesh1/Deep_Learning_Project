@@ -1,3 +1,3 @@
 from src.cnnClassifier import logger
 
-logger.info("Starting the CNN Classifier main script.")
+logger.info("Starting the CNN Classifier application.")
